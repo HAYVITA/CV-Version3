@@ -1,0 +1,173 @@
+body {
+  background-color: #00001a;
+}
+.sidehead {
+  font-family: 'Forum', cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  padding: 1%;
+}
+/* ====================================sidebar================================================== */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(161, 157, 237);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(44, 34, 227);
+  /* rgb(15, 22, 36);  141E27 */
+  color: ##ffffff
+}
+
+/* ====================================home================================================== */
+.darkb {
+  box-sizing: border-box;
+  margin: 0px;
+  font-size: 30px;
+  background-color: #00001a;
+  color: #e6e6ff;
+  font-family: 'Forum', cursive;
+}
+
+.homeb {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.aboutb {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.projb {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.edub {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.techb {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.contactb {
+  padding: 0.1%;
+  margin: 10px;
+  font-size: 15px;
+  color: #ffffff
+}
+
+.welcomeimg {
+  padding: 0% 9%;
+  height: 80%;
+  width: 80%;
+  float: right;
+  /* border-radius:80%; */
+}
+
+.intro {
+  padding: 9%;
+}
+
+.introp {
+  box-sizing: border-box;
+  font-size: 30px;
+  color: #e6e6ff;
+  font-family: 'Forum', cursive;
+}
+
+/* ====================================about================================================== */
+.lightb {
+  box-sizing: border-box;
+  font-size: 30px;
+  color: #00001a;
+  font-family: 'Forum', cursive;
+  /* background-color:#F0EBE3;  */
+  background: #abbaab;
+  background: -webkit-linear-gradient(to bottom, #ffffff, #abbaab);
+  background: linear-gradient(to bottom, #ffffff, #abbaab);
+}
+
+.pad {
+  padding: 3%;
+  margin-bottom: 7%;
+}
+
+.myimg {
+  padding: 3%;
+  margin-right: 40%;
+  height: 30%;
+  width: 30%;
+  float: right;
+}
+
+/* ===========================education================================================== */
+
+
+.border {
+  border-style: none;
+  border: 2%;
+  padding: 2%;
+  margin: 2%;
+}
+
+/*
+.side {
+  font-family: 'Forum', cursive;
+  font-weight: bolder;
+  font-size: 60px;
+  padding: 1%;
+} */
+.sideh {
+  font-size: 4rem;
+  padding: 0%;
+}
+
+.sidep {
+  font-size: 20px;
+  padding: 0%;
+}
+
+.scorecard {
+  color: black;
+  font-size: 20px;
+}
+
+
+/* ===========================projects================================================== */
+.projh {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: bolder;
+  font-size: 60px;
+  padding: 1%;
+}
+
+
+/* ===========================Programming================================================== */
+
+
+/* ===========================contact================================================== */
